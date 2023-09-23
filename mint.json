@@ -3,11 +3,11 @@
   "name": "*",
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#9563FF",
-    "light": "#AE87FF",
-    "dark": "#0D001D",
+    "primary": "#1feded",
+    "light": "#1f8aed",
+    "dark": "#060808",
     "background": {
-      "dark": "#090014"
+      "dark": "#060808"
     },
     "anchors": {
       "from": "#FF7F57",
