@@ -17,7 +17,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:wintrs@puke.lol"
     }
   ],
   "topbarCtaButton": {
@@ -37,14 +37,14 @@
       "url": "https://discord.gg/mal"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Commands",
+      "icon": "code",
+      "url": "https://mal.lame.lol/commands"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Documentation",
+      "icon": "book",
+      "url": "docs.lame.lol"
     }
   ],
   "navigation": [
