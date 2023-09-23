@@ -36,9 +36,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Discord",
+      "icon": "Discord",
+      "url": "https://discord.gg/mal"
     },
     {
       "name": "Community",
