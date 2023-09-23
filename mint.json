@@ -50,7 +50,7 @@
   "navigation": [
     {
       "group": "Overview",
-      "pages": ["home", "quickstart", "development"]
+      "pages": ["home", "update", "development"]
     },
     {
       "group": "Essentials",
