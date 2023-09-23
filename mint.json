@@ -53,8 +53,8 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "group": "Overview",
+      "pages": ["home", "quickstart", "development"]
     },
     {
       "group": "Essentials",
