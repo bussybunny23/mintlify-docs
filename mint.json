@@ -1,6 +1,6 @@
 {
   "$schema":"https://mintlify.com/schema.json",
-  "name": "*",
+  "name": "mal",
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#1feded",
