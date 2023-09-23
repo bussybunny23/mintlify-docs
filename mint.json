@@ -54,7 +54,7 @@
   "navigation": [
     {
       "group": "Overview",
-      "pages": ["home", "quickstart", "development"]
+      "pages": ["introduction", "quickstart", "development"]
     },
     {
       "group": "Essentials",
